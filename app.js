@@ -1,12 +1,13 @@
 // --- CONFIGURACIÓN DE FIREBASE ---
 // IMPORTANTE: Reemplaza esto con la configuración de tu propio proyecto de Firebase
+
 const firebaseConfig = {
-  apiKey: "TU_API_KEY",
-  authDomain: "TU_AUTH_DOMAIN",
-  projectId: "TU_PROJECT_ID",
-  storageBucket: "TU_STORAGE_BUCKET",
-  messagingSenderId: "TU_MESSAGING_SENDER_ID",
-  appId: "TU_APP_ID"
+  apiKey: "AIzaSyDfbnJu3C45PvBSkwuMfQoWH4Xridm718s",
+  authDomain: "appac-d069c.firebaseapp.com",
+  projectId: "appac-d069c",
+  storageBucket: "appac-d069c.firebasestorage.app",
+  messagingSenderId: "204739581057",
+  appId: "1:204739581057:web:536511d8028ad956fba980"
 };
 
 // --- INICIALIZACIÓN DE FIREBASE Y SERVICIOS ---
